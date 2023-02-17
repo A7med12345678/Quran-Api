@@ -1,0 +1,921 @@
+{
+  "Al-Fatihah": {
+    "_Made by :": "Ahmed Khaled",
+    "_Special Thanks to:": "Rana",
+    "name": "الفاتحة",
+    "Number": 1,
+    "Number of Verses": 7,
+    "Makki/Madani": "مكية",
+    "Theme": "التوحيد والدعاء",
+    "source": "https://server8.mp3quran.net/ahmad_huth/001.mp3"
+  },
+  "Al-Baqarah": {
+    "name": "البقرة",
+    "Number": 2,
+    "Number of Verses": 286,
+    "Makki/Madani": "مدنية",
+    "Theme": "الحكمة والتعليم",
+    "source": "https://server8.mp3quran.net/afs/002.mp3"
+  },
+  "Ali 'Imran": {
+    "name": "آل عمران",
+    "Number": 3,
+    "Number of Verses": 200,
+    "Makki/Madani": "مدنية",
+    "Theme": "تحريض على الجهاد والإيمان",
+    "source": "https://server8.mp3quran.net/afs/003.mp3"
+},
+  "An-Nisa'": {
+    "name": "النساء",
+    "Number": 4,
+    "Number of Verses": 176,
+    "Makki/Madani": "مدنية",
+    "Theme": "قوانين الأسرة والميراث",
+    "source": "https://server8.mp3quran.net/afs/004.mp3"
+  },
+  "Al-Ma'idah": {
+    "name": "المائدة",
+    "Number": 5,
+    "Number of Verses": 120,
+    "Makki/Madani": "مدنية",
+    "Theme": "الأحكام الشرعية",
+    "source": "https://server8.mp3quran.net/afs/005.mp3"
+  },
+  "Al-An'am": {
+    "name": "الأنعام",
+    "Number": 6,
+    "Number of Verses": 165,
+    "Makki/Madani": "مكية",
+    "Theme": "التوحيد والرد على المشركين",
+    "source": "https://server8.mp3quran.net/afs/006.mp3"
+  },
+  "Al-A'raf": {
+    "name": "الأعراف",
+    "Number": 7,
+    "Number of Verses": 206,
+    "Makki/Madani": "مكية",
+    "Theme": "تحذير الناس من العذاب",
+    "source": "https://server8.mp3quran.net/afs/007.mp3"
+  },
+  "Al-Anfal": {
+    "name": "الأنفال",
+    "Number": 8,
+    "Number of Verses": 75,
+    "Makki/Madani": "مدنية",
+    "Theme": "فتوحات مكة والأحكام الشرعية",
+    "source": "https://server8.mp3quran.net/afs/008.mp3"
+  },
+  "At-Tawbah": {
+    "name": "التوبة",
+    "Number": 9,
+    "Number of Verses": 129,
+    "Makki/Madani": "مدنية",
+    "Theme": "التوبة والجهاد والحج والصلا",
+    "source": "https://server8.mp3quran.net/afs/009.mp3"
+  },
+  "Yunus": {
+    "name": "يونس",
+    "Number": 10,
+    "Number of Verses": 109,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/010.mp3"
+  },
+  "Hud": {
+    "name": "هود",
+    "Number": 11,
+    "Number of Verses": 123,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/011.mp3"
+  },
+  "Yusuf": {
+    "name": "يوسف",
+    "Number": 12,
+    "Number of Verses": 111,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/012.mp3"
+  },
+  "Ar-Ra'd": {
+    "name": "الرعد",
+    "Number": 13,
+    "Number of Verses": 43,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/013.mp3"
+  },
+  "Ibrahim": {
+    "name": "إبراهيم",
+    "Number": 14,
+    "Number of Verses": 52,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/014.mp3"
+  },
+  "Al-Hijr": {
+    "name": "الحجر",
+    "Number": 15,
+    "Number of Verses": 99,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/015.mp3"
+  },
+  "An-Nahl": {
+    "name": "النحل",
+    "Number": 16,
+    "Number of Verses": 128,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/016.mp3"
+  },
+  "Al-Isra": {
+    "name": "الإسراء",
+    "Number": 17,
+    "Number of Verses": 111,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/017.mp3"
+  },
+  "Al-Kahf": {
+    "name": "الكهف",
+    "Number": 18,
+    "Number of Verses": 110,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/018.mp3"
+  },
+  "Maryam": {
+    "name": "مريم",
+    "Number": 19,
+    "Number of Verses": 98,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/019.mp3"
+  },
+  "Taha": {
+    "name": "طه",
+    "Number": 20,
+    "Number of Verses": 135,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/020.mp3"
+  },
+  "Al-Anbiya": {
+    "name": "الأنبياء",
+    "Number": 21,
+    "Number of Verses": 112,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/021.mp3"
+  },
+
+"Al-Hajj": {
+    "name": "الحج",
+    "Number": 22,
+    "Number of Verses": 78,
+    "Makki/Madani": "مدنية",
+    "Theme": "الحج والجهاد",
+    "source": "https://server8.mp3quran.net/afs/022.mp3"
+  },
+  "Al-Mu'minun": {
+    "name": "المؤمنون",
+    "Number": 23,
+    "Number of Verses": 118,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/023.mp3"
+  },
+  "An-Nur": {
+    "name": "النور",
+    "Number": 24,
+    "Number of Verses": 64,
+    "Makki/Madani": "مدنية",
+    "Theme": "أخلاق المؤمنين",
+    "source": "https://server8.mp3quran.net/afs/024.mp3"
+  },
+  "Al-Furqan": {
+    "name": "الفرقان",
+    "Number": 25,
+    "Number of Verses": 77,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/025.mp3"
+  },
+  "Ash-Shu'ara": {
+    "name": "الشعراء",
+    "Number": 26,
+    "Number of Verses": 227,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/026.mp3"
+  },
+  "An-Naml": {
+    "name": "النمل",
+    "Number": 27,
+    "Number of Verses": 93,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/027.mp3"
+  },
+  "Al-Qasas": {
+    "name": "القصص",
+    "Number": 28,
+    "Number of Verses": 88,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/028.mp3"
+  },
+  "Al-Ankabut": {
+    "name": "العنكبوت",
+    "Number": 29,
+    "Number of Verses": 69,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/029.mp3"
+  },
+  "Ar-Rum": {
+    "name": "الروم",
+    "Number": 30,
+    "Number of Verses": 60,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد",
+    "source": "https://server8.mp3quran.net/afs/030.mp3"
+  },
+  "Luqman": {
+    "name": "لقمان",
+    "Number": 31,
+    "Number of Verses": 34,
+    "Makki/Madani": "مكية",
+    "Theme": "الحكمة",
+    "source": "https://server8.mp3quran.net/afs/031.mp3"
+  },
+  "As-Sajdah": {
+    "name": "السجدة",
+    "Number": 32,
+    "Number of Verses": 30,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/032.mp3"
+  },
+  "Al-Ahzab": {
+    "name": "الأحزاب",
+    "Number": 33,
+    "Number of Verses": 73,
+    "Makki/Madani": "مدنية",
+    "Theme": "الأحكام",
+    "source": "https://server8.mp3quran.net/afs/033.mp3"
+  },
+  "Saba": {
+    "name": "سبأ",
+    "Number": 34,
+    "Number of Verses": 54,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/034.mp3"
+  },
+  "Fatir": {
+    "name": "فاطر",
+    "Number": 35,
+    "Number of Verses": 45,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/035.mp3"
+  },
+  "Ya-Sin": {
+    "name": "يس",
+    "Number": 36,
+    "Number of Verses": 83,
+    "Makki/Madani": "مكية",
+    "Theme": "القرآن",
+    "source": "https://server8.mp3quran.net/afs/036.mp3"
+  },
+  "As-Saffat": {
+    "name": "الصافات",
+    "Number": 37,
+    "Number of Verses": 182,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/037.mp3"
+  },
+  "Sad": {
+    "name": "ص",
+    "Number": 38,
+    "Number of Verses": 88,
+    "Makki/Madani": "مكية",
+    "Theme": "القرآن",
+    "source": "https://server8.mp3quran.net/afs/038.mp3"
+  },
+  "Az-Zumar": {
+    "name": "الزمر",
+    "Number": 39,
+    "Number of Verses": 75,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/039.mp3"
+  },
+  "Ghafir": {
+    "name": "غافر",
+    "Number": 40,
+    "Number of Verses": 85,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/040.mp3"
+  },
+  "Fussilat": {
+    "name": "فصلت",
+    "Number": 41,
+    "Number of Verses": 54,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/041.mp3"
+  },
+  "Ash-Shura": {
+    "name": "الشورى",
+    "Number": 42,
+    "Number of Verses": 53,
+    "Makki/Madani": "مكية",
+    "Theme": "الأحكام",
+    "source": "https://server8.mp3quran.net/afs/042.mp3"
+  },
+  "Az-Zukhruf": {
+    "name": "الزخرف",
+    "Number": 43,
+    "Number of Verses": 89,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/043.mp3"
+  },
+  "Ad-Dukhan": {
+    "name": "الدخان",
+    "Number": 44,
+    "Number of Verses": 59,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/044.mp3"
+  },
+  "Al-Jathiya": {
+    "name": "الجاثية",
+    "Number": 45,
+    "Number of Verses": 37,
+    "Makki/Madani": "مكية",
+    "Theme": "التوحيد",
+    "source": "https://server8.mp3quran.net/afs/045.mp3"
+  },
+  "Al-Ahqaf": {
+    "name": "الأحقاف",
+    "Number": 46,
+    "Number of Verses": 35,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/046.mp3"
+  },
+  "Muhammad": {
+    "name": "محمد",
+    "Number": 47,
+    "Number of Verses": 38,
+    "Makki/Madani": "مدنية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/047.mp3"
+  },
+  "Al-Fath": {
+    "name": "الفتح",
+    "Number": 48,
+    "Number of Verses": 29,
+    "Makki/Madani": "مدنية",
+    "Theme": "الأحكام",
+    "source": "https://server8.mp3quran.net/afs/048.mp3"
+  },
+  "Al-Hujurat": {
+    "name": "الحجرات",
+    "Number": 49,
+    "Number of Verses": 18,
+    "Makki/Madani": "مدنية",
+    "Theme": "الآداب",
+    "source": "https://server8.mp3quran.net/afs/049.mp3"
+  },
+  "Qaf": {
+    "name": "ق",
+    "Number": 50,
+    "Number of Verses": 45,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/050.mp3"
+  },
+  "Adh-Dhariyat": {
+    "name": "الذاريات",
+    "Number": 51,
+    "Number of Verses": 60,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/051.mp3"
+  },
+  "At-Tur": {
+    "name": "الطور",
+    "Number": 52,
+    "Number of Verses": 49,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/052.mp3"
+  },
+  "An-Najm": {
+    "name": "النجم",
+    "Number": 53,
+    "Number of Verses": 62,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/053.mp3"
+  },
+  "Al-Qamar": {
+    "name": "القمر",
+    "Number": 54,
+    "Number of Verses": 55,
+    "Makki/Madani": "مكية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/054.mp3"
+  },
+  "Ar-Rahman": {
+    "name": "الرحمن",
+    "Number": 55,
+    "Number of Verses": 78,
+    "Makki/Madani": "مدنية",
+    "Theme": "توحيد الله",
+    "source": "https://server8.mp3quran.net/afs/055.mp3"
+  },
+  "Al-Waqi'a": {
+    "name": "الواقعة",
+    "Number": 56,
+    "Number of Verses": 96,
+    "Makki/Madani": "مكية",
+    "Theme": "الآخرة",
+    "source": "https://server8.mp3quran.net/afs/056.mp3"
+  },
+  "Al-Hadid": {
+    "name": "الحديد",
+    "Number": 57,
+    "Number of Verses": 29,
+    "Makki/Madani": "مدنية",
+    "Theme": "التوحيد",
+    "source": "https://server8.mp3quran.net/afs/057.mp3"
+  },
+  "Al-Mujadila": {
+    "name": "المجادلة",
+    "Number": 58,
+    "Number of Verses": 22,
+    "Makki/Madani": "مدنية",
+    "Theme": "الآداب",
+    "source": "https://server8.mp3quran.net/afs/058.mp3"
+  },
+  "Al-Hashr": {
+    "name": "الحشر",
+    "Number": 59,
+    "Number of Verses": 24,
+    "Makki/Madani": "مدنية",
+    "Theme": "الأخلاق",
+    "source": "https://server8.mp3quran.net/afs/059.mp3"
+  },
+  "Al-Mumtahanah": {
+    "name": "الممتحنة",
+    "Number": 60,
+    "Number of Verses": 13,
+    "Makki/Madani": "مدنية",
+    "Theme": "التوحيد",
+    "source": "https://server8.mp3quran.net/afs/060.mp3"
+  },
+  "As-Saff": {
+    "name": "الصف",
+    "Number": 61,
+    "Number of Verses": 14,
+    "Makki/Madani": "مدنية",
+    "Theme": "الجهاد",
+    "source": "https://server8.mp3quran.net/afs/061.mp3"
+  },
+  "Al-Jumu'ah": {
+    "name": "الجمعة",
+    "Number": 62,
+    "Number of Verses": 11,
+    "Makki/Madani": "مدنية",
+    "Theme": "الجمعة",
+    "source": "https://server8.mp3quran.net/afs/062.mp3"
+  },
+  "Al-Munafiqun": {
+    "name": "المنافقون",
+    "Number": 63,
+    "Number of Verses": 11,
+    "Makki/Madani": "مدنية",
+    "Theme": "النفاق",
+    "source": "https://server8.mp3quran.net/afs/063.mp3"
+  },
+ "At-Taghabun": {
+    "name": "التغابن",
+    "Number": 64,
+    "Number of Verses": 18,
+    "Makki/Madani": "مدنية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/064.mp3"
+  },
+  "At-Talaq": {
+    "name": "الطلاق",
+    "Number": 65,
+    "Number of Verses": 12,
+    "Makki/Madani": "مدنية",
+    "Theme": "الطلاق",
+    "source": "https://server8.mp3quran.net/afs/065.mp3"
+  },
+  "At-Tahrim": {
+    "name": "التحريم",
+    "Number": 66,
+    "Number of Verses": 12,
+    "Makki/Madani": "مدنية",
+    "Theme": "التحريم",
+    "source": "https://server8.mp3quran.net/afs/066.mp3"
+  },
+  "Al-Mulk": {
+    "name": "الملك",
+    "Number": 67,
+    "Number of Verses": 30,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/067.mp3"
+  },
+  "Al-Qalam": {
+    "name": "القلم",
+    "Number": 68,
+    "Number of Verses": 52,
+    "Makki/Madani": "مكية",
+    "Theme": "الدعوة",
+    "source": "https://server8.mp3quran.net/afs/068.mp3"
+  },
+  "Al-Haqqah": {
+    "name": "الحاقة",
+    "Number": 69,
+    "Number of Verses": 52,
+    "Makki/Madani": "مكية",
+    "Theme": "الدعوة",
+    "source": "https://server8.mp3quran.net/afs/069.mp3"
+  },
+  "Al-Ma'arij": {
+    "name": "المعارج",
+    "Number": 70,
+    "Number of Verses": 44,
+    "Makki/Madani": "مكية",
+    "Theme": "الدعوة",
+    "source": "https://server8.mp3quran.net/afs/070.mp3"
+  },
+  "Nuh": {
+    "name": "نوح",
+    "Number": 71,
+    "Number of Verses": 28,
+    "Makki/Madani": "مكية",
+    "Theme": "قصص الأنبياء",
+    "source": "https://server8.mp3quran.net/afs/071.mp3"
+  },
+  "Al-Jinn": {
+    "name": "الجن",
+    "Number": 72,
+    "Number of Verses": 28,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/072.mp3"
+  },
+  "Al-Muzzammil": {
+    "name": "المزمل",
+    "Number": 73,
+    "Number of Verses": 20,
+    "Makki/Madani": "مكية",
+    "Theme": "التأمل",
+    "source": "https://server8.mp3quran.net/afs/073.mp3"
+  },
+  "Al-Muddaththir": {
+    "name": "المدثر",
+    "Number": 74,
+    "Number of Verses": 56,
+    "Makki/Madani": "مكية",
+    "Theme": "التأمل",
+    "source": "https://server8.mp3quran.net/afs/074.mp3"
+  },
+  "Al-Qiyamah": {
+    "name": "القيامة",
+    "Number": 75,
+    "Number of Verses": 40,
+    "Makki/Madani": "مكية",
+    "Theme": "اليوم الآخر",
+    "source": "https://server8.mp3quran.net/afs/075.mp3"
+  },
+  "Al-Insan": {
+    "name": "الإنسان",
+    "Number": 76,
+    "Number of Verses": 31,
+    "Makki/Madani": "مدنية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/076.mp3"
+  },
+  "Al-Mursalat": {
+    "name": "المرسلات",
+    "Number": 77,
+    "Number of Verses": 50,
+    "Makki/Madani": "مكية",
+    "Theme": "التكذيب",
+    "source": "https://server8.mp3quran.net/afs/077.mp3"
+  },
+  "An-Naba": {
+    "name": "النبأ",
+    "Number": 78,
+    "Number of Verses": 40,
+    "Makki/Madani": "مكية",
+    "Theme": "البعث والنشور",
+    "source": "https://server8.mp3quran.net/afs/078.mp3"
+  },
+  "An-Nazi'at": {
+    "name": "النازعات",
+    "Number": 79,
+    "Number of Verses": 46,
+    "Makki/Madani": "مكية",
+    "Theme": "البعث والنشور",
+    "source": "https://server8.mp3quran.net/afs/079.mp3"
+  },
+  "Abasa": {
+    "name": "عبس",
+    "Number": 80,
+    "Number of Verses": 42,
+    "Makki/Madani": "مكية",
+    "Theme": "التكذيب",
+    "source": "https://server8.mp3quran.net/afs/080.mp3"
+  },
+  "At-Takwir": {
+    "name": "التكوير",
+    "Number": 81,
+    "Number of Verses": 29,
+    "Makki/Madani": "مكية",
+    "Theme": "اليوم الآخر",
+    "source": "https://server8.mp3quran.net/afs/081.mp3"
+  },
+  "Al-Infitar": {
+    "name": "الإنفطار",
+    "Number": 82,
+    "Number of Verses": 19,
+    "Makki/Madani": "مكية",
+    "Theme": "اليوم الآخر",
+    "source": "https://server8.mp3quran.net/afs/082.mp3"
+  },
+  "Al-Mutaffifin": {
+    "name": "المطففين",
+    "Number": 83,
+    "Number of Verses": 36,
+    "Makki/Madani": "مكية",
+    "Theme": "العدل",
+    "source": "https://server8.mp3quran.net/afs/083.mp3"
+
+ },
+  "Al-Inshiqaq": {
+    "name": "الإنشقاق",
+    "Number": 84,
+    "Number of Verses": 25,
+    "Makki/Madani": "مكية",
+    "Theme": "اليوم الآخر",
+    "source": "https://server8.mp3quran.net/afs/084.mp3"
+
+  },
+  "Al-Buruj": {
+    "name": "البروج",
+    "Number": 85,
+    "Number of Verses": 22,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/085.mp3"
+  },
+  "At-Tariq": {
+    "name": "الطارق",
+    "Number": 86,
+    "Number of Verses": 17,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/086.mp3"
+  },
+  "Al-A'la": {
+    "name": "الأعلى",
+    "Number": 87,
+    "Number of Verses": 19,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/087.mp3"
+  },
+  "Al-Ghashiyah": {
+    "name": "الغاشية",
+    "Number": 88,
+    "Number of Verses": 26,
+    "Makki/Madani": "مكية",
+    "Theme": "التكذيب",
+    "source": "https://server8.mp3quran.net/afs/088.mp3"
+  },
+  "Al-Fajr": {
+    "name": "الفجر",
+    "Number": 89,
+    "Number of Verses": 30,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/089.mp3"
+  },
+  "Al-Balad": {
+    "name": "البلد",
+    "Number": 90,
+    "Number of Verses": 20,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/090.mp3"
+  },
+  "Ash-Shams": {
+    "name": "الشمس",
+    "Number": 91,
+    "Number of Verses": 15,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/091.mp3"
+  },
+  "Al-Lail": {
+    "name": "الليل",
+    "Number": 92,
+    "Number of Verses": 21,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/092.mp3"
+  },
+  "Ad-Duha": {
+    "name": "الضحى",
+    "Number": 93,
+    "Number of Verses": 11,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/093.mp3"
+  },
+  "Ash-Sharh": {
+    "name": "الشرح",
+    "Number": 94,
+    "Number of Verses": 8,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/094.mp3"
+  },
+  "At-Tin": {
+    "name": "التين",
+    "Number": 95,
+    "Number of Verses": 8,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/095.mp3"
+  },
+  "Al-Alaq": {
+    "name": "العلق",
+    "Number": 96,
+    "Number of Verses": 19,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/096.mp3"
+  },
+  "Al-Qadr": {
+    "name": "القدر",
+    "Number": 97,
+    "Number of Verses": 5,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/097.mp3"
+  },
+  "Al-Bayyinah": {
+    "name": "البينة",
+    "Number": 98,
+    "Number of Verses": 8,
+    "Makki/Madani": "مدنية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/098.mp3"
+  },
+  "Az-Zalzalah": {
+    "name": "الزلزلة",
+    "Number": 99,
+    "Number of Verses": 8,
+    "Makki/Madani": "مكية",
+    "Theme": "اليوم الآخر",
+    "source": "https://server8.mp3quran.net/afs/099.mp3"
+  },
+  "Al-'Adiyat": {
+    "name": "العاديات",
+    "Number": 100,
+    "Number of Verses": 11,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/100.mp3"
+  },
+  "Al-Qari'ah": {
+    "name": "القارعة",
+    "Number": 101,
+    "Number of Verses": 11,
+    "Makki/Madani": "مكية",
+    "Theme": "اليوم الآخر",
+    "source": "https://server8.mp3quran.net/afs/101.mp3"
+  },
+  "At-Takathur": {
+    "name": "التكاثر",
+    "Number": 102,
+    "Number of Verses": 8,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/102.mp3"
+  },
+  "Al-'Asr": {
+    "name": "العصر",
+    "Number": 103,
+    "Number of Verses": 3,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/103.mp3"
+  },
+
+  "Al-Humazah": {
+    "name": "الهمزة",
+    "Number": 104,
+    "Number of Verses": 9,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/104.mp3"
+  },
+  "Al-Fil": {
+    "name": "الفيل",
+    "Number": 105,
+    "Number of Verses": 5,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/105.mp3"
+  },
+
+  "Quraish": {
+    "name": "قريش",
+    "Number": 106,
+    "Number of Verses": 4,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/106.mp3"
+  },
+  "Al-Ma'un": {
+    "name": "الماعون",
+    "Number": 107,
+    "Number of Verses": 7,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/107.mp3"
+  },
+  "Al-Kawthar": {
+    "name": "الكوثر",
+    "Number": 108,
+    "Number of Verses": 3,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/108.mp3"
+  },
+  "Al-Kafirun": {
+    "name": "الكافرون",
+    "Number": 109,
+    "Number of Verses": 6,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/109.mp3"
+  },
+  "An-Nasr": {
+    "name": "النصر",
+    "Number": 110,
+    "Number of Verses": 3,
+    "Makki/Madani": "مكية",
+    "Theme": "النصر والتمكين",
+    "source": "https://server8.mp3quran.net/afs/110.mp3"
+  },
+  "Al-Lahab": {
+    "name": "اللهب",
+    "Number": 111,
+    "Number of Verses": 5,
+    "Makki/Madani": "مكية",
+    "Theme": "الإيمان",
+    "source": "https://server8.mp3quran.net/afs/111.mp3"
+  },
+  "Al-Ikhlas": {
+    "name": "الإخلاص",
+    "Number": 112,
+    "Number of Verses": 4,
+    "Makki/Madani": "مكية",
+    "Theme": "التوحيد",
+    "source": "https://server8.mp3quran.net/afs/112.mp3"
+  },
+  "Al-Falaq": {
+    "name": "الفلق",
+    "Number": 113,
+    "Number of Verses": 5,
+    "Makki/Madani": "مكية",
+    "Theme": "التعوذ بالله",
+    "source": "https://server8.mp3quran.net/afs/113.mp3"
+  },
+  "An-Nas": {
+    "name": "الناس",
+    "Number": 114,
+    "Number of Verses": 6,
+    "Makki/Madani": "مكية",
+    "Theme": "التعوذ بالله",
+    "source": "https://server8.mp3quran.net/afs/114.mp3"
+  }
+}
